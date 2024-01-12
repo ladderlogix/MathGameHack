@@ -2,6 +2,7 @@
 [https://www.purposegames.com/game/unit-circle-degrees-and-radians-game](https://www.purposegames.com/game/unit-circle-degrees-and-radians-game)
 
 ## What is the Game
+Click on points of a unit circle given radians or degrees 
 
 ## Cheat
 ```javascript
